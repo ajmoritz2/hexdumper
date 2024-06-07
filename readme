@@ -1,0 +1,12 @@
+This is just a short program I wrote to get the reings of the C language.  Yea
+I know it kinda sucks but I'm probably not gonna update it anymore.
+
+There are a few arguments you can put down such as -p for the output file
+
+-r for just the raw ## hex no translation
+
+and thats actually it. There are two more flags in the code but they have no
+functionality because I'm too lazy to put it in. Yes this will create the new
+file for you. I'm not responsible for any memory leaks or whatever else is
+caused by this. Yes you have to build it yourself with gcc or something idc.
+The make file is there for you!
